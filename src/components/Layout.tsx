@@ -34,7 +34,7 @@ export default function Layout({ children }: LayoutProps) {
             <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
               <TrendingUp size={24} />
             </div>
-            <h1 className="text-xl font-bold">AutopilotX</h1>
+            <h1 className="text-xl font-bold">GoalTrade</h1>
           </div>
 
           <nav className="space-y-2">
@@ -89,7 +89,7 @@ export default function Layout({ children }: LayoutProps) {
             <span className="text-primary">Crypto</span> Market Overview
           </div>
           <div className="flex items-center gap-4">
-            <span className="text-sm text-gray-400">support@autopilotx.in</span>
+            <span className="text-sm text-gray-400">support@GoalTrade.in</span>
             <div className="flex items-center gap-2 bg-dark-tertiary px-4 py-2 rounded-lg">
               <User size={20} />
               <span className="text-sm">{user?.username}</span>

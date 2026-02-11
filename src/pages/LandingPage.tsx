@@ -11,7 +11,7 @@ export default function LandingPage() {
             <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
               <TrendingUp size={24} />
             </div>
-            <h1 className="text-xl font-bold">AutopilotX</h1>
+            <h1 className="text-xl font-bold">GoalTrade</h1>
           </div>
           <div className="flex gap-4">
             <Link to="/signin" className="px-6 py-2 text-white hover:text-primary transition-colors">
@@ -34,7 +34,7 @@ export default function LandingPage() {
             Earn Profit.
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto mb-8">
-            Experience effortless crypto trading with ready-to-use strategies. Deploy them in a click, and watch your portfolio grow on AutopilotX.
+            Experience effortless crypto trading with ready-to-use strategies. Deploy them in a click, and watch your portfolio grow on GoalTrade.
           </p>
           <Link to="/signup" className="inline-block px-8 py-4 bg-primary hover:bg-primary-dark rounded-lg text-white font-medium text-lg transition-colors">
             Get Started
@@ -180,8 +180,8 @@ export default function LandingPage() {
                 <TrendingUp size={24} />
               </div>
               <div>
-                <h1 className="font-bold">AutopilotX</h1>
-                <p className="text-xs text-gray-400">© 2026 AutopilotX - All rights reserved.</p>
+                <h1 className="font-bold">GoalTrade</h1>
+                <p className="text-xs text-gray-400">© 2026 GoalTrade - All rights reserved.</p>
               </div>
             </div>
             <div className="flex gap-6">

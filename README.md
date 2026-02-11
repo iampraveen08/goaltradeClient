@@ -2,7 +2,7 @@
 
 A comprehensive crypto algorithmic trading platform with automated strategy deployment, real-time market data, and portfolio management.
 
-![AutopilotX](https://img.shields.io/badge/AutopilotX-Crypto%20Trading-10B981)
+![GoalTrade](https://img.shields.io/badge/GoalTrade-Crypto%20Trading-10B981)
 
 ## Features
 
@@ -47,7 +47,7 @@ A comprehensive crypto algorithmic trading platform with automated strategy depl
 1. **Clone the repository**
 ```bash
 git clone <your-repo-url>
-cd goaltrade
+cd GoalTrade
 ```
 
 2. **Install root dependencies**
@@ -74,7 +74,7 @@ cd ..
 Create `server/.env` file:
 ```env
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/goaltrade
+MONGODB_URI=mongodb://localhost:27017/GoalTrade
 JWT_SECRET=your_secure_jwt_secret_here
 NODE_ENV=development
 
@@ -130,7 +130,7 @@ npm start
 ## Project Structure
 
 ```
-goaltrade/
+GoalTrade/
 ├── client/                 # React frontend
 │   ├── src/
 │   │   ├── api/           # API client configuration
@@ -239,7 +239,7 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support, email support@autopilotx.in or join our Telegram channel.
+For support, email support@GoalTrade.in or join our Telegram channel.
 
 ## Acknowledgments
 

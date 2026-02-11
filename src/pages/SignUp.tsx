@@ -53,7 +53,7 @@ export default function SignUp() {
             <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
               <TrendingUp size={24} />
             </div>
-            <h1 className="text-xl font-bold">AutopilotX</h1>
+            <h1 className="text-xl font-bold">GoalTrade</h1>
           </Link>
 
           <div className="mb-8">
